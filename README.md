@@ -5,5 +5,7 @@ created at 10/2019
 
 Requirements:
 Microsoft Visual Studio 2015 or newer
+
 Microsoft SQL Server Management Studio 2014 or newer
+
 .Net Framework 4.8 or newer
